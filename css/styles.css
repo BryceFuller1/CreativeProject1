@@ -13,15 +13,47 @@ flex: 4
 
 .about-info
 {
-  padding-left: 50px;
-  padding-top: 90px;
+  padding-left: 200px;
+  padding-top: 150px;
+  padding-bottom: 150px;
 
 }
 
+.rank
+{
+  padding-left: 105px;
+  padding-top: 150px;
+}
+
+.rankTop
+{
+  padding-left: 107px;
+  padding-top: 150px;
+}
+
+.rankSpecial
+{
+  padding-left: 100px;
+  padding-top: 150px;
+}
+
+.rankFinal
+{
+  padding-left: 95px;
+  padding-top: 150px;
+}
 .home-info
 {
   text-align: center;
   font-size: 50px;
+}
+
+.rankInfo
+{
+  text-align: center;
+  font-size: 50px;
+  padding-bottom: 20px;
+  padding-top: 25px;
 }
 
 .row
@@ -39,7 +71,14 @@ flex: 4
    text-align: center;
 }
 
-
+.factInfo
+{
+  padding-bottom: 25px;
+  padding-top: 25px;
+  font-size: 55px;
+  font-style: normal;
+  text-align: center;
+}
 
 .review
 {
